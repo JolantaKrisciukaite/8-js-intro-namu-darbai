@@ -79,9 +79,9 @@ if (kaSuSavimiPasiimti === 'Lauke nera vilko') {
 
 if (kaSuSavimiPasiimti !== 'Lauke sviecia saule' && 
     kaSuSavimiPasiimti !== 'Lauke nesviecia saule' && 
-    kaSuSavimiPasiimti === 'Lauke lyja lietus' &&
-    kaSuSavimiPasiimti === 'Lauke nelyja lietus' &&
-    kaSuSavimiPasiimti === 'Lauke nera vilko') {
+    kaSuSavimiPasiimti !== 'Lauke lyja lietus' &&
+    kaSuSavimiPasiimti !== 'Lauke nelyja lietus' &&
+    kaSuSavimiPasiimti !== 'Lauke nera vilko') {
     console.log('Drasiai iseiti pasivaikscioti 😜');
 }
 

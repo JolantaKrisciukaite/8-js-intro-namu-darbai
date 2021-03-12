@@ -4,7 +4,7 @@ JavaScript mini užduotys
 Kintamųjų inicijavimas
 */
 
-/*1*/
+// 1
 
 const pirmasSkaicius = 20;
 console.log(pirmasSkaicius);
@@ -17,7 +17,7 @@ console.log(treciasSkaicius);
 
 console.log('----------')
 
-/*2*/
+// 2
 
 const pasisveikinimas = 'Sveiki,'
 console.log(pasisveikinimas);
@@ -30,7 +30,7 @@ console.log(klausimas);
 
 console.log('----------')
 
-/*3*/
+// 3
 
 const sarasas1 = [2, 3, 5, 6, 7];
 console.log(sarasas1);
@@ -43,7 +43,7 @@ console.log(sarasas3);
 
 console.log('----------')
 
-/*4*/
+// 4
 
 const abc1 = ['l', 'i', 'n', 'a', 's'];
 console.log(abc1);

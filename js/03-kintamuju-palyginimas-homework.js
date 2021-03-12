@@ -1,5 +1,0 @@
-/* Kintamuju palyginimas
-*/
-
-/*1*/
-
