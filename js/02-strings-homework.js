@@ -1,21 +1,20 @@
-/* Veiksmai su kintamaisiais
-*/
+/* Veiksmai su kintamaisiais */
 
-/*1*/
+// 1
 
 const suma = pirmasSkaicius + antrasSkaicius + treciasSkaicius;
 console.log(suma);
 
 console.log('----------')
 
-/*2*/
+// 2
 
 const tekstas = pasisveikinimas+' '+kreipinys+' '+klausimas
 console.log(tekstas);
 
 console.log('----------')
  
-/*3*/
+// 3
 
 const verte1 = sarasas1[0] - sarasas1[1] + sarasas1[2] - sarasas1[3] + sarasas1[4];
 console.log(verte1);
@@ -28,7 +27,7 @@ console.log(verte3);
 
 console.log('----------')
 
-/*4*/ 
+// 4 
 
 const raidziuJunginys1 = abc1[0] + abc1[1] + abc1[2] + abc1[3] + abc1[4] 
 const raidziuJunginys2 = abc2[0] + abc2[1] + abc2[2] + abc2[3] + abc2[4]
