@@ -5,7 +5,6 @@ https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript
 
 // Jeigu nera ka susumuoti atsakymas bus 0.
 // Panaudoti for'a. 
-// Gauti nurodyta atsakyma
 
 
 function positiveSum(array) {
