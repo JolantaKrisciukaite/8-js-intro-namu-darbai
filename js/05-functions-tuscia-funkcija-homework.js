@@ -1,4 +1,6 @@
 
+// Funkcija pavadinimu “tusciaFunkcija”
+
 
 function tusciaFunkcija() {
     return 'false';

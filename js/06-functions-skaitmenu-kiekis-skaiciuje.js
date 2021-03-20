@@ -1,4 +1,6 @@
 
+// Funkcija pavadinimu “skaitmenuKiekisSkaiciuje”
+
 
 function digits(skaicius) {
     if (typeof skaicius !== 'number') {

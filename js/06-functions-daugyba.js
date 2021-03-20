@@ -1,4 +1,6 @@
 
+// Funkcija pavadinimu “daugyba”
+
 
 function daugyba(a, b) {
     const rez = a * b; 
