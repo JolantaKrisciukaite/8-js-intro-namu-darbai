@@ -1,4 +1,10 @@
-// 1 
 
-// a
+
+function tusciaFunkcija() {
+    return 'false';
+}
+
+console.log(tusciaFunkcija());
+
+
 
