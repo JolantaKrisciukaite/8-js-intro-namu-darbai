@@ -1,2 +1,0 @@
-
-// Funkcija pavadinimu “didziausiasSkaiciusSarase”
