@@ -11,7 +11,7 @@ function bigNumb(list) {
         return 'ERROR: pateiktas sarasas negali buti tuscias';
     }
 
-    let biggest = list[0];                 
+    let biggest = list[0]; // jeigu sarase yra sveikieji skaiciai                
     // arba -Infinity; let i = 0 ---> jeigu sarase yra pamineta Infinity
 
     for (let i = 1; i < list.length; i++) {
