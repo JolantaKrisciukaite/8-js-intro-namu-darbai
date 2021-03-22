@@ -9,7 +9,7 @@ function enough(cap, on, wait) {
     } else if (cap - on < wait) {
         const uzimtosVietos = cap - on;
         const skirtumas = uzimtosVietos - wait;
-        return -skirtumas
+        return -skirtumas;
     }
 }     
 
