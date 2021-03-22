@@ -11,7 +11,7 @@ function bigNum(list) {
     }
 
     let biggest = list[0];   // arba abiejuose -Infinity
-    let secondBiggest = -1;
+    let secondBiggest = list[0];  // jeigu bus = -1, tada ras 66, o ne 69
 
     for (let i = 1; i < list.length; i++) {
         const number = list[i];
@@ -30,7 +30,7 @@ function bigNum(list) {
 
 console.log(bigNum([1, 2, 3]), '->', 2);
 console.log(bigNum([-5, 78, 14, 0, 18]), '->', 18);
-console.log(bigNum([69, 69, 69, 69, 66]), '->', 66);
+console.log(bigNum([69, 69, 69, 69, 66]), '->', 69);
 console.log(bigNum([2, 4, 55, -45, 80]), '->', 55);
 console.log(bigNum([3, 4, 3, 4, 58, -78]), '->', 4);
 console.log(bigNum('pomidoras'));
@@ -38,7 +38,10 @@ console.log(bigNum([]));
 
 
 
-/*    Istraukia antra pagal diduma skaiciu
+/*  
+
+Turi buti patikslinta salyga, kurio antro, pagal diduma, ieskome.
+Ar tai bus antrasis 69 ar 66 :)
 
 function bigNumb(list) {
     if (!Array.isArray(list)) {
