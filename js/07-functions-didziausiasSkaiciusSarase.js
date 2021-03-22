@@ -2,7 +2,7 @@
 // Funkcija pavadinimu “didziausiasSkaiciusSarase”
 
 
-function bigNumb(list) {
+function bigNum(list) {
     if (!Array.isArray(list)) {
     return 'ERROR: pateikta netinkamo tipo reiksme';
 }
@@ -25,13 +25,13 @@ function bigNumb(list) {
 }
 
 
-console.log(bigNumb([1]), '->', 1);
-console.log(bigNumb([1, 2, 3]), '->', 3);
-console.log(bigNumb([-5, 78, 14, 0, 18]), '->', 78);
-console.log(bigNumb([69, 69, 69, 69, 66]), '->', 69);
-console.log(bigNumb([-1, -2, -3, -4, -5, -6, -7, -8]), '->', -1);
-console.log(bigNumb('pomidoras'));
-console.log(bigNumb([]));
+console.log(bigNum([1]), '->', 1);
+console.log(bigNum([1, 2, 3]), '->', 3);
+console.log(bigNum([-5, 78, 14, 0, 18]), '->', 78);
+console.log(bigNum([69, 69, 69, 69, 66]), '->', 69);
+console.log(bigNum([-1, -2, -3, -4, -5, -6, -7, -8]), '->', -1);
+console.log(bigNum('pomidoras'));
+console.log(bigNum([]));
 
 
 /* 
