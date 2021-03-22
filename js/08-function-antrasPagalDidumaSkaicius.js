@@ -1,5 +1,6 @@
 
-// Funkcija pavadinimu “antrasPagalDidumaSkaicius”
+// Funkcija pavadinimu 'antrasPagalDidumaSkaicius'
+// Ieskome antro, pagal diduma, unikalaus skaiciaus.
 
 
 function bigNum(list) {
@@ -40,8 +41,9 @@ console.log(bigNum([]));
 
 /*  
 
-Turi buti patikslinta salyga. 
-Ar ieskome antro, pagal diduma, unikalaus ar antro, pagal diduma, apskritai.
+Turi buti patikslinta salyga: kokio algoritmo ieskome.
+Ar ieskome antro, pagal diduma, unikalaus?  
+Ar antro, pagal diduma, apskritai?
 Ar tai bus antrasis 69 ar 66.
 
 function bigNumb(list) {
