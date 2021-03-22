@@ -1,6 +1,6 @@
 
 /*
-https://www.codewars.com/kata/5704aea738428f4d30000914/train/javascript
+https://www.codewars.com/kata/5875b200d520904a04000003/solutions/javascript
 */
 
 function enough(cap, on, wait) {
