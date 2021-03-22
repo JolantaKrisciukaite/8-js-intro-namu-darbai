@@ -1,3 +1,4 @@
+
 // Funkcija pavadinimu “maziausiasSkaiciusSarase”
 
 

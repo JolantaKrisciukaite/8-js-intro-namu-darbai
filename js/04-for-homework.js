@@ -1,3 +1,4 @@
+
 /* 
 
 Ciklo For panaudojimas

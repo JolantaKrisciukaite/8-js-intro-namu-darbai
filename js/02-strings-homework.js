@@ -1,3 +1,4 @@
+
 /* Veiksmai su kintamaisiais */
 
 // 1

@@ -1,3 +1,4 @@
+
 /* 
 JavaScript mini užduotys
 
