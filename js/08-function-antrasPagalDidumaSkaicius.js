@@ -40,8 +40,9 @@ console.log(bigNum([]));
 
 /*  
 
-Turi buti patikslinta salyga, kurio antro, pagal diduma, ieskome.
-Ar tai bus antrasis 69 ar 66 :)
+Turi buti patikslinta salyga. 
+Ar ieskome antro, pagal diduma, unikalaus ar antro, pagal diduma, apskritai.
+Ar tai bus antrasis 69 ar 66.
 
 function bigNumb(list) {
     if (!Array.isArray(list)) {
