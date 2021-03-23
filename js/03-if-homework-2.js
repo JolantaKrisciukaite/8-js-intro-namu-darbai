@@ -1,4 +1,3 @@
-
 /* Kintamuju palyginimas */
 
 // 3

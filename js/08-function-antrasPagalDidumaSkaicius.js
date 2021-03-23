@@ -1,4 +1,3 @@
-
 // Funkcija pavadinimu 'antrasPagalDidumaSkaicius'
 // Ieskome antro, pagal diduma, unikalaus skaiciaus.
 
