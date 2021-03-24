@@ -115,3 +115,5 @@ const pomidoras = 'pomidoras';
 const pomidoroIlgis = pomidoras.length;
 
 console.log(pomidoroIlgis);
+
+
