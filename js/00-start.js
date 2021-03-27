@@ -238,8 +238,130 @@ switch (day) {
         break;
 }
 
+console.clear();
 
-console.log('********************');
+
+const pirmas = 5;
+const antras = 7;
+
+let ats = '';
+
+if (pirmas > antras) {
+   ats = 'daugiau'; 
+} else {
+    ats = 'ne daugiau';
+}
+
+console.log(ats);
+
+
+const trecias = 5;
+const ketvirtas = 7;
+
+const ats2 = trecias > ketvirtas ? 'daugiau' : 'ne daugiau';
+
+console.log(ats2);
+
+
+const penktas = 5;
+const sestas = 65;
+
+const ats3 = '';
+
+if (penktas > sestas) {
+    console.log('daugiau');
+} else {
+    console.log('ne daugiau');
+}
+
+console.log(ats3);
+
+
+const septintas = 51;
+const astuntas = 102;
+
+const ats4 = septintas > astuntas ? 'daugiau' : 'ne daugiau';
+
+console.log(ats4);
+
+
+console.log('**********************');
+
+
+const devintas =  89;
+const desimtas = 555;
+
+const ats5 = devintas > desimtas ? 'daugiau' : 'ne daugiau';
+
+console.log(ats5);
+
+
+console.log('**********************');
+
+
+const pazymiai2 = [7, 10, 8, 5];
+
+const suma3 = pazymiai2[1] + pazymiai2[2] + pazymiai2[3] + pazymiai2[4];
+
+const vidurkis = suma / pazymiai.length;
+console.log(vidurkis);
+
+
+console.log('**********************');
+
+
+const marks = [10, 8, 5, 6, 8];
+
+const count = marks.length;
+let sum = 0;
+
+sum += marks[0];
+sum += marks[1];
+sum += marks[2];
+sum += marks[3];
+sum += marks[4];
+
+const average = sum / count;
+console.log(average);
+
+
+console.log('**********************');
+
+
+const abc5 = ['r', 'y', 't', 'a', 's']
+
+let zodis5 = '';
+let abcIndex = 0;
+
+zodis5 += abc5[abcIndex];
+console.log(zodis5);
+
+abcIndex += 1;
+zodis5 += abc5[abcIndex];
+console.log(zodis5);
+
+abcIndex += 1;
+zodis5 += abc5[abcIndex];
+console.log(zodis5);
+
+abcIndex += 1;
+zodis5 += abc5[abcIndex];
+console.log(zodis5);
+
+abcIndex += 1;
+zodis5 += abc5[abcIndex];
+console.log(zodis5);
+
+
+
+
+
+
+
+
+
+
+
 
 
 
