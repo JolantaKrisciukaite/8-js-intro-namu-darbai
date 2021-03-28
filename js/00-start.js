@@ -88,6 +88,34 @@ for (let i = 0; i < mokykla.length; i++) {
 }
 
 
+console.log('------------');
+
+
+function daugyba(a, b) {
+
+if (typeof a !== 'number') {
+    return 'Pirmasis parametras turi buti skaiciaus tipo';
+}
+
+if (typeof b !== 'number') {
+    return 'Antrasis parametras turi buti skaiciaus tipo';
+}
+
+    const rez = a * b;
+    return rez;
+}
+
+
+console.log(daugyba(4, 5), '->', 20);
+console.log(daugyba(44, 5), '->', 220);
+console.log(daugyba(-44, -55), '->', 2420);
+console.log(daugyba(-44, 55), '->', -2420);
+console.log(daugyba(-44, 0), '->', 0);
+console.log(daugyba(0, 0), '->', 0);
+console.log(daugyba(18, -2), '->', -36);
+console.log(daugyba('trys', 'penki'));
+
+
 
 
 
